@@ -1,0 +1,84 @@
+﻿@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo20yk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_pikao20yk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIrapSCOBt_aeQQ7ftydoa8W_LJs7o.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo20yk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o20yk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo20yk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0kePelJox.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDelJox.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8XsLO.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHelJox.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebelJox.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa05efelJox.ttf) format('truetype');
+}

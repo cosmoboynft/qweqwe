@@ -1,0 +1,1081 @@
+/* whole document */
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    direction: rtl;
+    background-color: rgb(245, 245, 245);
+
+}
+
+/* side bar */
+
+.sideBar {
+    width: 15%;
+    height: 94vh;
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    border-radius: 20px;
+    position: fixed;
+}
+
+#datetime {
+    font-family: Shabnam;
+    display: flex;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(98, 84, 229);
+    letter-spacing: 10px;
+    padding: 30px 0;
+    justify-content: center;
+    width: 100%;
+    cursor: default;
+}
+
+.userId {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+
+.userPic {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.userProfilePic {
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
+.userInfo {
+    font-family: shabnam;
+    font-weight: bold;
+    font-size: 200px;
+}
+
+.role {
+    color: rgb(124, 124, 124);
+    transition: 0.5s;
+}
+
+
+
+.lowList {
+    width: 100%;
+    padding: 20px;
+}
+
+.col_ul {
+    color: gray;
+    word-spacing: 7px;
+    font-size: 15px;
+    line-height: 30px;
+    font-family: shabnam;
+}
+
+
+
+/* content */
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 85%;
+    margin-right: 15%;
+    cursor: default;
+    overflow-y: scroll;
+}
+
+.content::-webkit-scrollbar {
+    display: none;
+}
+
+/* nav bar */
+#navbar {
+    background-color: white;
+    position: fixed;
+    top: -50px;
+    width: 100%;
+    transition: top 0.3s;
+    box-shadow: gray 0px 0px 3px 1px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    height: 40px;
+    padding-right: 20px;
+    z-index: 1;
+}
+
+.searchDiv {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+#search {
+    border: none;
+    font-family: shabnam;
+    width: 30%;
+    padding-right: 5px;
+    outline: none;
+}
+
+.navIcons {
+    display: flex;
+    width: 10%;
+    align-items: center;
+    color: gray;
+    justify-content: space-around;
+}
+
+
+[id*="topNotif"] {
+    background-color: red;
+    color: white;
+    border-radius: 40%;
+    padding: 0 4px;
+    font-family: shabnam;
+    font-size: 12px;
+    position: relative;
+    top: -21%;
+    left: -46%;
+}
+
+.quickInfo {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    direction: rtl;
+    flex-direction: row-reverse;
+}
+
+
+/* plus icon */
+
+
+#plusIcon {
+    display: none;
+}
+
+/* qiuck info row */
+
+/* messages */
+.messages {
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    width: 22%;
+    height: 110px;
+    transition: width 1s;
+
+}
+
+.picMessages {
+    background-image: linear-gradient(to top, rgb(96, 125, 255), rgb(35, 197, 246));
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.textMessages {
+    display: flex;
+    width: 60%;
+    transition: width 0.6s, opacity 0.2s ease-in 0.7s;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: white;
+}
+
+
+/* encyclopedias */
+
+
+.encyclopedias {
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    width: 22%;
+    height: 110px;
+    transition: width 1s;
+
+
+}
+
+.textEncyclopedias {
+    display: flex;
+    width: 60%;
+    transition: width 0.6s, opacity 0.2s ease-in 0.7s;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: white;
+
+}
+
+.picEncyclopedias {
+    background-image: linear-gradient(to top, rgb(236, 69, 79), rgb(243, 72, 127));
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* tickets */
+
+
+.tickets {
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    width: 22%;
+    height: 110px;
+    transition: width 1s;
+}
+
+
+.textTickets {
+    display: flex;
+    width: 60%;
+    transition: width 0.6s, opacity 0.2s ease-in 0.7s;
+    visibility: visible;
+    opacity: 1;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: white;
+}
+
+.picTickets {
+    background-image: linear-gradient(to top, rgb(230, 140, 6), rgb(254, 197, 58));
+
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* users */
+
+
+
+.users {
+    display: flex;
+    flex-direction: row-reverse;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    width: 22%;
+    height: 110px;
+}
+
+.textUsers {
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: white;
+    opacity: 1;
+    transition: width 0.6s, opacity 0.2s ease-in 0.7s;
+}
+
+.picUsers {
+    background-image: linear-gradient(to top, rgb(94, 114, 227), rgb(128, 95, 228));
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+[class*="pic"] {
+    align-items: center;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+}
+
+[class*="lowText"] {
+    display: inline;
+}
+
+[class*="text"] {
+    font-family: shabnam;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+
+/* second row */
+
+
+.EditAndSummary {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 300px;
+    padding: 20px 0;
+}
+
+
+/* summary */
+
+
+.summary {
+    display: flex;
+    background-color: white;
+    width: 30%;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.sumTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.sumText {
+    display: flex;
+    width: 30%;
+    justify-content: flex-start;
+    border-bottom: solid #6257E4 2px;
+}
+
+.dropbtn {
+    font-family: shabnam;
+    font-weight: bold;
+    padding: 8px 15px;
+    word-spacing: 2px;
+    font-size: 10px;
+    border: solid 0.5px #919191;
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+    height: fit-content;
+}
+
+.dropdown-content {
+    background-color: rgb(225, 227, 250);
+    font-weight: bold;
+
+}
+
+.sumLow {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.chart-container {
+    position: relative;
+width: 100vw;
+display: flex;
+align-items: center;
+}
+
+
+
+/* edit */
+
+
+
+.edit {
+    display: flex;
+    border-radius: 10px;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    background-image: linear-gradient(to bottom right, rgb(141, 95, 229), rgb(140, 146, 233));
+    width: 60%;
+    flex-direction: row-reverse;
+}
+
+.editIcon {
+    cursor: pointer;
+    height: fit-content;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+/* third row tickets and messages */
+
+
+
+.ticketAndMessages {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 350px;
+    padding: 0 0 20px 0px;
+}
+
+
+
+/* message box */
+
+
+
+.messageBox {
+    display: flex;
+    background-color: white;
+    width: 30%;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    flex-direction: column;
+    padding: 10px
+}
+
+.messageBoxTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.messageBoxTextDiv {
+    display: flex;
+    font-family: shabnam;
+    width: 25%;
+    justify-content: flex-start;
+    border-bottom: solid #6257E4 2px;
+}
+
+.messageBoxLow {
+    display: flex;
+    height: 100%;
+    overflow: scroll;
+}
+.messageBoxLow::-webkit-scrollbar{
+    display: none;
+}
+.nameMBox {
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tableTitleTextMBox {
+    color: #404040;
+    font-weight: bold;
+}
+
+.newPM {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 1px;
+    font-size: 8px;
+}
+
+.infoMBox {
+    color: grey;
+    padding-bottom: 6px;
+}
+
+.tableRow {
+    border-bottom: 1px solid #ccc;
+}
+
+
+
+
+/* show tickets */
+
+
+
+
+.ticketsShow {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 10px;
+    width: 60%;
+    padding: 10px;
+}
+
+.ticketsShowTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.tab {
+    overflow: hidden;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-family: shabnam;
+    opacity: 0.5;
+
+}
+
+.dropbtn1 {
+    font-family: shabnam;
+    display: flex;
+    align-self: flex-end;
+    font-weight: bold;
+    padding: 8px 15px;
+    word-spacing: 2px;
+    font-size: 10px;
+    border: solid 0.5px #919191;
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    top: 5%;
+    left: 2%;
+}
+
+.tabContent {
+    display: block;
+    direction: rtl;
+    border-top: none;
+}
+
+.tabcontentNews {
+    display: block;
+    direction: rtl;
+    border-top: none;
+}
+
+.tabcontentEn {
+    display: block;
+    direction: rtl;
+    border-top: none;
+}
+
+/* first tab */
+
+.ticketsShowLow {
+    overflow-y: scroll;
+}
+
+.ticketsShowLow::-webkit-scrollbar {
+    display: none;
+}
+
+/* table */
+
+table {
+    width: 100%;
+    font-family: shabnam;
+    font-size: 10px;
+    border-collapse: collapse;
+}
+
+.tableHead {
+    background-color: #efefef;
+    color: black;
+    padding: 0 20px;
+    height: 30px;
+}
+
+.titleFirstHeading {
+    width: 35%;
+    padding-right: 5%;
+}
+
+.titleThirdHeading {
+    width: 20%;
+}
+
+th {
+    text-align: right;
+}
+
+.tableFirstColumn {
+    display: flex;
+    padding: 0 10px;
+}
+
+.tableTitleText {
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.tableTitleDescription {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tableDescriptionText {
+    padding: 0 10px;
+}
+
+.tableColorTag {
+    width: 3%;
+    height: 3vh;
+    border-radius: 5px;
+    display: flex;
+    align-self: flex-end;
+}
+
+.tableDescriptionTagLink {
+    text-decoration: none;
+    color: blue;
+}
+
+.tableDescriptionGrayTag {
+    width: 1vw;
+    height: 1vw;
+    background-color: #ddd;
+    border-radius: 0.3vw;
+}
+
+.tUserPic {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.madeBy,
+.responseBy {
+    display: flex;
+    align-items: center;
+}
+
+.tUserInfo {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+}
+
+.priority {
+    display: flex;
+    align-items: center;
+}
+
+.priorityIcon {
+    padding-left: 10px;
+}
+
+.tableTitle {
+    padding: 0 10px;
+}
+
+/* color tags ticket table */
+.blueTag {
+    background-color: #60C9F8;
+}
+
+.greenTag {
+    background-color: #79e080;
+}
+
+.grayTag {
+    background-color: #c3c3c3;
+}
+
+
+
+
+
+/* encyclopedias And News Box */
+
+
+.encyclopediasAndNews {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 350px;
+    padding: 0 0 20px 0px;
+}
+
+/* encyclopedias box */
+
+.encyclopediasBox {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 10px;
+    width: 45%;
+    padding: 10px;
+
+}
+
+.encyclopediasBoxTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.encyclopediasBoxLow{
+    overflow: scroll;
+}
+.encyclopediasBoxLow::-webkit-scrollbar{
+    display: none;
+}
+
+
+/* news Box */
+.newsBox {
+    display: flex;
+    background-color: white;
+    width: 45%;
+    box-shadow: #CCCCCC 0px 0px 3px 0.5px;
+    border-radius: 7px;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.newsBoxTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row-reverse
+}
+.newsBoxLow{
+    overflow: scroll;
+}
+.newsBoxLow::-webkit-scrollbar{
+    display: none;
+}
+
+
+
+.userNews {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.newsTexts {
+    font-size: 12px;
+    color: grey;
+}
+
+.titleFirstHeadingNews {
+    padding-right: 5%;
+}
+
+.tUserPicNews {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 0 10px;
+}
+
+
+
+/* fonts */
+@font-face {
+    font-family: Shabnam;
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot');
+    src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff2') format('woff2'),
+        url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff') format('woff'),
+        url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.ttf') format('truetype');
+    font-weight: normal;
+}
+
+
+
+
+
+/* media query responsiveness */
+
+
+@media screen and (max-width:900px) {
+    #navbar {
+        display: none;
+
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: inherit;
+    }
+
+    .sideBar {
+        display: none;
+        width: 100%;
+        position: unset;
+    }
+
+    #plusIcon {
+        display: flex;
+        font-size: xx-large;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        overflow: hidden;
+    }
+
+    .lowList {
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .userPic {
+        width: 100px;
+        height: 100px;
+    }
+
+    .content {
+        display: flex;
+        margin-right: 0;
+        overflow-y: unset;
+    }
+
+    .quickInfo {
+        display: flex;
+        width: 100%;
+        height: fit-content;
+        flex-direction: column;
+        height: 85vh;
+    }
+
+    .messages {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .encyclopedias {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .tickets {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .users {
+        display: flex;
+        justify-content: center;
+        border-radius: 7px;
+        width: 100%;
+
+
+    }
+
+    .EditAndSummary {
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        align-items: center;
+    }
+
+    .edit {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .summary {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .ticketAndMessages {
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        align-items: center;
+    }
+
+    .ticketsShow {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .messageBox {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .messageBoxLow {
+        overflow: scroll;
+    }
+
+    .chart-container {
+        height: 100%;
+    }
+
+    
+
+    .ticketsShowLow {
+        overflow: scroll;
+    }
+
+    .encyclopediasAndNews {
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .encyclopediasBox {
+        width: 100%;
+        height: 40vh;
+        overflow: scroll;
+    }
+
+    .newsBox {
+        width: 100%;
+        height: 40vh;
+        overflow: scroll;
+    }
+
+    .titleFourthHeading {
+        display: none;
+    }
+
+    .responseBy {
+        display: none;
+    }
+
+    .madeBy {
+        display: none;
+    }
+
+    .titleSecondHeading {
+        display: none;
+    }
+
+    .titleFirstHeading {
+        width: unset;
+    }
+
+    .titleThirdHeading {
+        width: unset;
+        position: relative;
+        left: -10%;
+    }
+
+}
+
+/* elements */
+
+ul {
+    list-style-type: none;
+    font-size: 12px;
+    padding: 0px;
+}
+
+li {
+    margin: 9px 0;
+}
+
+
+
+
+
+
+/* //////////   HOVERS   \\\\\\\\\\ */
+
+
+
+/* side bar */
+.col_ul li:hover {
+    color: rgb(98, 84, 229);
+    font-weight: bolder;
+}
+
+.role:hover {
+    color: rgb(98, 84, 229);
+    ;
+    cursor: pointer;
+}
+
+/* nav */
+.navIcons i:hover {
+    cursor: pointer;
+}
+
+/* first row */
+.users:hover .textUsers,
+.messages:hover .textMessages,
+.encyclopedias:hover .textEncyclopedias,
+.tickets:hover .textTickets {
+    width: 0%;
+    visibility: hidden;
+    opacity: 0;
+    padding: 0;
+}
+
+.users:hover,
+.tickets:hover,
+.encyclopedias:hover,
+.messages:hover {
+    cursor: pointer;
+}
+
+
+/* third row */
+
+
+
+/* message box */
+.titleMBox:hover {
+    cursor: pointer;
+}
+
+
+
+/* tickets */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    border-bottom: solid 2px rgb(97, 112, 227);
+    opacity: 1;
+
+}
+
+/* table */
+
+.tableFirstColumn:hover {
+    cursor: pointer;
+}
+
+.tableRow:hover {
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+.tableTitleText:hover{
+cursor: pointer;
+}

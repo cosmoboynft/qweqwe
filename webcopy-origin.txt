@@ -1,0 +1,1468 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.6.3\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\ajax\libs\wow\0.1.12\wow.min.js
+Content Type: application/javascript
+
+Uri: https://check.ddos-guard.net/check.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\check.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-latest.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\jquery-latest.min.js
+Content Type: application/javascript
+
+Uri: https://emirateinvestment.uk/me.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\me.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Asap|Poppins:300,400,500,600,700,800,900|Source+Sans+Pro:300,400,600,700,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-12
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Bai+Jamjuree:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Bai+Jamjuree:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-23
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cairo:200,300,400,600,700,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-15
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-17
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-22
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-20
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-16
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lobster
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-9
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:700
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-26
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-11
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:400,500,600,700|Titillium+Web:400,600,700
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-24
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-13
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-14
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-25
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-21
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-18
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-8
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-19
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Saira+Condensed:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-10
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro
+File Name: C:\Downloaded Web Sites\fury-trades.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,300,300i,400,400i,600,600i,700,700i,900
+File Name: C:\Downloaded Web Sites\fury-trades.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/asap/v21/KFO9CniXp96a4Tc2EZzSuDAoKsE61phJW3s.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\asap\v21\KFO9CniXp96a4Tc2EZzSuDAoKsE61phJW3s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDI1apSCOBt_aeQQ7ftydoa8XsLO.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDI1apSCOBt_aeQQ7ftydoa8XsLO.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo20yk.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIoapSCOBt_aeQQ7ftydoa8W_o6kKo20yk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo20yk.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIoapSCOBt_aeQQ7ftydoa8W_oGkqo20yk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o20yk.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIoapSCOBt_aeQQ7ftydoa8W_oWl6o20yk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_pikao20yk.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIoapSCOBt_aeQQ7ftydoa8W_pikao20yk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIoapSCOBt_aeQQ7ftydoa8W_pylqo20yk.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIoapSCOBt_aeQQ7ftydoa8W_pylqo20yk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa05efelJox.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIqapSCOBt_aeQQ7ftydoa05efelJox.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa09eDelJox.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIqapSCOBt_aeQQ7ftydoa09eDelJox.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0gebelJox.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIqapSCOBt_aeQQ7ftydoa0gebelJox.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0kePelJox.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIqapSCOBt_aeQQ7ftydoa0kePelJox.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIqapSCOBt_aeQQ7ftydoa0reHelJox.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIqapSCOBt_aeQQ7ftydoa0reHelJox.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/baijamjuree/v9/LDIrapSCOBt_aeQQ7ftydoa8W_LJs7o.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\baijamjuree\v9\LDIrapSCOBt_aeQQ7ftydoa8W_LJs7o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5l2WgcRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5l2WgcRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5l8G8cRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5l8G8cRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5lB2gcRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5lB2gcRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5lh28cRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5lh28cRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5lvm8cRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5lvm8cRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcRiyX.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\cairo\v17\SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcRiyX.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8j4PKsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jF_WsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jjPKsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvKsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jPvWsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v18/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsOdC6.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\exo2\v18\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnFK_eRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnFK_eRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnLK3eRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnLK3eRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnMK7eRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnMK7eRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnPKreRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnPKreRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnSKzeRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnSKzeRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnWKneRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnWKneRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9B4kDNxMZdWfMOD5VnZKveRhf_.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9B4kDNxMZdWfMOD5VnZKveRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9C4kDNxMZdWfMOD5Vn9LjJYTc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9C4kDNxMZdWfMOD5Vn9LjJYTc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v15/va9E4kDNxMZdWfMOD5Vvl4jO.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\firasans\v15\va9E4kDNxMZdWfMOD5Vvl4jO.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v23/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\josefinsans\v23\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v23/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\josefinsans\v23\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v23/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\josefinsans\v23\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v23/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\josefinsans\v23\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v23/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\josefinsans\v23\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lobster/v27/neILzCirqoswsqX9zoKmNg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\lobster\v27\neILzCirqoswsqX9zoKmNg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v47/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\oswald\v47\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v16/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\ptsans\v16\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v16/jizdRExUiTo99u79D0e8fOydLxUY.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\ptsans\v16\jizdRExUiTo99u79D0e8fOydLxUY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v16/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\ptsans\v16\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v16/jizYRExUiTo99u79D0e0x8mN.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\ptsans\v16\jizYRExUiTo99u79D0e0x8mN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pa8FvOreeI.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pa8FvOreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pasEfOreeI.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pasEfOreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pb0EPOreeI.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pb0EPOreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pbYF_OreeI.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pbYF_OreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDIxapCSOBg7S-QT7p4HM-M.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\rajdhani\v14\LDIxapCSOBg7S-QT7p4HM-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v26/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\raleway\v26\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEobdNc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEobdNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYobdNc.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYobdNc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM4.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVj2ZhZI2eCN5jzbjEETS9weq8-19eLDwM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\robotocondensed\v24\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnBc1Q962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnbcpQ962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnCclQ962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnGc5Q962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnIcxQ962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ962a.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRLQgErUN8XuHNEtX81i9TmEkrnUchQ962a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJRMQgErUN8XuHNEtX81i9TmEkrnwdtH0I0.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJRMQgErUN8XuHNEtX81i9TmEkrnwdtH0I0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sairacondensed/v10/EJROQgErUN8XuHNEtX81i9TmEkrvoutA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sairacondensed\v10\EJROQgErUN8XuHNEtX81i9TmEkrvoutA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v14/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\s\titilliumweb\v14\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fury-trades.com/
+File Name: C:\Downloaded Web Sites\fury-trades.com\index.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=account
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-10.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=cust&page=aboutus
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-2.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=deposit
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-13.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=deposit_history
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-16.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=deposit_list
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-14.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=earnings
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-17.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=edit_account
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-11.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=faq
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-3.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=forgot_password
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-8.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=home
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-1.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=login
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-5.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=logout
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-9.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=referallinks
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-20.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=referals
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-19.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=rules
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-4.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=security
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-12.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=signup
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-6.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=support
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-7.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=withdraw
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-15.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/?a=withdraw_history
+File Name: C:\Downloaded Web Sites\fury-trades.com\index-18.htm
+Content Type: text/html
+
+Uri: https://fury-trades.com/animate.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\animate.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/cube.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\cube.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/faqstyle.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\faqstyle.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/hover.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\hover.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/images/1000.gif
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\1000.gif
+Content Type: image/gif
+
+Uri: https://fury-trades.com/images/about-bg.jpg
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://fury-trades.com/images/about-butbg.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\about-butbg.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/adv-bg1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\adv-bg1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/adv-img1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\adv-img1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/adv-img2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\adv-img2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/adv-img3.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\adv-img3.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/adv-img4.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\adv-img4.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/aff-bg1.jpg
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://fury-trades.com/images/aff-bg2.jpg
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://fury-trades.com/images/aff-butimg.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-butimg.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/aff-dot.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-dot.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/aff-level11.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-level11.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/aff-level22.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\aff-level22.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/affiliateImg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\affiliateImg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/arrow-bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\arrow-bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/banner-3.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-3.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/banner-bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/banner-but1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-but1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/banner-but2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-but2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/banner-img.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-img.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/banner-img1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-img1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/banner-img2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner-img2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/banner_10.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\banner_10.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/cer-img.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\cer-img.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/certificate.jpg
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\certificate.jpg
+Content Type: image/jpeg
+
+Uri: https://fury-trades.com/images/chart.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\chart.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/dash.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\dash.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/depo-bg1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\depo-bg1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/disabled.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\disabled.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/enabled.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\enabled.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/fundsFromBg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\fundsFromBg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/grey_buildings.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\grey_buildings.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/head-1.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\head-1.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/inner-bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\inner-bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/js/calcs.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\calcs.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/js/faqscript.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\faqscript.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/js/ie-emulation-modes-warning.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\ie-emulation-modes-warning.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/js/wow.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\js\wow.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/images/login-img.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\login-img.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/logo.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\logo.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/memnav1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\memnav1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/memnav2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\memnav2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/memnav3.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\memnav3.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/memnav4.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\memnav4.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/memnav5.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\memnav5.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-3.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-3.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-4.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-4.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-5.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-5.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-8.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-8.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/pay-bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\pay-bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan-bg1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-bg1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/plan-butbg.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-butbg.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/plan-img1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-img1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/plan-img2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-img2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/plan-img3.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-img3.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/plan-round.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan-round.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/planBg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\planBg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan_bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan_bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan_icon_bg_1.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan_icon_bg_1.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan_icon_bg_2.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan_icon_bg_2.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan_icon_bg_3.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan_icon_bg_3.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/plan_title_design.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\plan_title_design.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-1-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-1-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-1.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-1.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-2-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-2-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-2.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-2.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-3-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-3-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-3.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-3.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-4-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-4-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-4.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-4.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-5-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-5-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-5.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-5.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-6-hover.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-6-hover.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-6.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-6.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/polygon-wrapper.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\polygon-wrapper.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/q.gif
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\q.gif
+Content Type: image/gif
+
+Uri: https://fury-trades.com/images/sign-img.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sign-img.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/sta-1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sta-1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/sta-2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sta-2.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/sta-3.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sta-3.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/sta-4.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sta-4.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/sta-bg1.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\sta-bg1.png
+Content Type: image/png
+
+Uri: https://fury-trades.com/images/tablet.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\tablet.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/title-after.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\title-after.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/images/white_curve_bg.html
+File Name: C:\Downloaded Web Sites\fury-trades.com\images\white_curve_bg.html
+Content Type: text/html
+
+Uri: https://fury-trades.com/jquery.simplyscroll.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\jquery.simplyscroll.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/js/clock.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\clock.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/detect.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\detect.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/home.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\home.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/html5lightbox.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\html5lightbox.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/jquery.simplyscroll.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\jquery.simplyscroll.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/script.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/js/vue.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\js\vue.min.js
+Content Type: application/javascript
+
+Uri: https://fury-trades.com/lity.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\lity.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/popup.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\popup.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/responsive-admin.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\responsive-admin.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/style-admin.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\style-admin.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/style.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\style.css
+Content Type: text/css
+
+Uri: https://fury-trades.com/video/emi.mp4
+File Name: C:\Downloaded Web Sites\fury-trades.com\video\emi.mp4
+Content Type: video/mp4
+
+Uri: https://fury-trades.com/whatsapp2.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\whatsapp2.png
+Content Type: image/png
+
+Uri: https://gtranslate.net/flags/24.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\flags\24.png
+Content Type: image/png
+
+Uri: https://gtranslate.net/flags/24a.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\flags\24a.png
+Content Type: image/png
+
+Uri: https://gtranslate.net/flags/blank.png
+File Name: C:\Downloaded Web Sites\fury-trades.com\flags\blank.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\fury-trades.com\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2
+File Name: C:\Downloaded Web Sites\fury-trades.com\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/css/all.css
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\fury-trades.com\releases\v5.7.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
